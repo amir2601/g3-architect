@@ -166,12 +166,17 @@ nav ul {
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }
 
+.card-text {
+    padding-top: 15px;
+}
+
 .feature-box-2-img > img {
     width: 100%;
 }
 
 .exp-box {
     background-color: var(--orange);
+    text-align: center;
     border-radius: 8px;
     padding: 30px 40px;
     width: 220px;
