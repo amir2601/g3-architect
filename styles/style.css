@@ -121,6 +121,12 @@ nav ul {
 .feature-team img {
     width: 100%;
 }
+.grey {
+    color: var(--grey);
+}
+.orange {
+    color: var(--orange);
+}
 
 .feature-text {
     display: flex;
